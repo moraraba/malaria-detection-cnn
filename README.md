@@ -17,21 +17,6 @@ Malaria is still diagnosed mainly by examining blood smears under a microscope. 
 | Explainability | Grad-CAM heatmaps showing which part of each cell drove the prediction |
 | Demo | Streamlit app: upload a cell image, get a prediction and heatmap |
 
-## Results
-
-*Run the notebook, then fill this table from `outputs/*_metrics.json` (the notebook's last cell prints it).*
-
-| Model | Accuracy | Sensitivity | Specificity | ROC AUC | Missed infected cells |
-|---|---|---|---|---|---|
-| Baseline CNN | | | | | |
-| MobileNetV2 (fine-tuned) | | | | | |
-
-<!-- After running, commit outputs/figures and uncomment:
-![Grad-CAM examples](outputs/figures/mobilenet_gradcam.png)
-![Confusion matrix](outputs/figures/mobilenet_confusion_matrix.png)
--->
-
-
 
 ## Project structure
 
