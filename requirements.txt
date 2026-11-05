@@ -1,0 +1,9 @@
+tensorflow>=2.16
+tensorflow-datasets>=4.9
+numpy
+pandas
+scikit-learn
+matplotlib
+pillow
+streamlit>=1.46
+tabulate
